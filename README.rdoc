@@ -1,0 +1,8 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Workspace: RoboCup@Home backup
+Updated: 141201
+Author: wktey
+Description: 1. initial package followme
+	     2. add in ground_based_people_detection
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
